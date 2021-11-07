@@ -1,0 +1,24 @@
+body {
+    background-color: #32C1CD;
+}
+
+hr {
+    height: 2px;
+    width: 3%;
+    border: dotted grey;
+    border-width: 0 0 7px;
+}
+
+img {
+  height: 180px;
+}
+
+h1 {
+  color: #700B97;
+}
+
+h3 {
+  color: #700B97;
+}
+
+34BE82
