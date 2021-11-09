@@ -1,0 +1,15 @@
+.top-container {
+  background-color: #88E0EF;
+}
+
+.middle-container {
+  height: 200px;
+  width: 200px;
+  background-color: red;
+}
+
+.bottom-container {
+  height: 200px;
+  width: 200px;
+  background-color: yellow;
+}
